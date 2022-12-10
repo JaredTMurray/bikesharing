@@ -4,9 +4,11 @@ In this module, I have used data visualization software Tableau to present a bus
 
 ### Results
 - Deliverable 1: Change Trip Duration to a Datetime Format
- To convert the 'tripduration' column to datetime datatype, I used the following code citibike_tripdata_df['tripduration'] = pd.to_datetime(citibike_tripdata_df['tripduration'], unit='s'). Unit 's' represent seconds. I further export the Dataframe as a new CSV file without the index, by using the following code citibike_tripdata_df.to_csv(r'C:\Users\Jared\Module15\bikesharing\Starter_Code\\citibike_tripdata1.csv', index=False). See [NYC_Citibike_Challenge.ipynb](https://github.com/JaredTMurray/bikesharing/blob/main/NYC_CitiBike_Challenge_starter_code.ipynb). 
+ To convert the 'tripduration' column to datetime datatype, I used the following code citibike_tripdata_df['tripduration'] = pd.to_datetime(citibike_tripdata_df['tripduration'], unit='s'). Unit 's' represent seconds. I further export the Dataframe as a new CSV file without the index, by using the following code citibike_tripdata_df.to_csv(r'C:\Users\Jared\Module15\bikesharing\Starter_Code\\citibike_tripdata1.csv', index=False). 
+ See [NYC_Citibike_Challenge.ipynb](https://github.com/JaredTMurray/bikesharing/blob/main/NYC_CitiBike_Challenge_starter_code.ipynb). 
 
 - Deliverable 2: Visualizations for the Trip Analysis [link to Trip Analysis dashboard](https://public.tableau.com/app/profile/jared.murray/viz/Challengue15/TripAnalysis?publish=yes)
+
 The Dashboard  belos ia an analtical view of the following
  - Number of bikes checked out by duration for all users
  - Number of bikes that are checked out by duration for each gender by the hour and by per hour
@@ -17,8 +19,10 @@ The Dashboard  belos ia an analtical view of the following
 ![](https://github.com/JaredTMurray/bikesharing/blob/main/TripAnalysis.png)
 
 - Deliverable 3: A Story and Report for the Final Presentation [link to Story for dashboard](https://public.tableau.com/app/profile/jared.murray/viz/Challengue15/SubscribersStory?publish=yes)
+
 Based on the trip analysis, Males were the highest of all the genders per bike that has '0' hours trip duration at over 108K. On Monday and Tuesday between 5:00 pm - 6:00 pm Males had the highest stop time and on Thrudays male had the higest subscription for user trip.  
 
 ### Summary
 [Link to Trip Duration by weekday and time](https://public.tableau.com/app/profile/jared.murray/viz/Challengue15/TripsDurationbyweekdayandtime?publish=yes)
+
 Based on the the static Thrusday during the hours for 8:00 am, 5:00 pm and 6:00 pm has the highest trips. Overall Mondays, Tuesday and Thursdays during the hours for 8:00 am, 5:00 pm and 6:00 pm are the the best days for a trips for all genders whil Wednesday is the least poplar day. 
