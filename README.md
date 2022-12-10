@@ -9,7 +9,7 @@ In this module, I have used data visualization software Tableau to present a bus
 
 - Deliverable 2: Visualizations for the Trip Analysis [link to Trip Analysis dashboard](https://public.tableau.com/app/profile/jared.murray/viz/Challengue15/TripAnalysis?publish=yes)
 
-The Dashboard  below is an analtical view of the following
+The Dashboard  below is an analytical view of the following
  - Number of bikes checked out by duration for all users
  - Number of bikes that are checked out by duration for each gender by the hour and by per hour
  - A heatmap was created to show the number of bike trips for each hour of each day of the week
@@ -20,9 +20,9 @@ The Dashboard  below is an analtical view of the following
 
 - Deliverable 3: A Story and Report for the Final Presentation [link to Story for dashboard](https://public.tableau.com/app/profile/jared.murray/viz/Challengue15/SubscribersStory?publish=yes)
 
-Based on the trip analysis, Males were the highest of all the genders per bike that has '0' hours trip duration at over 108K. On Monday and Tuesday between 5:00 pm - 6:00 pm Males had the highest stop time and on Thrudays male had the higest subscription for user trip.  
+Based on the trip analysis, Males were the highest of all the genders per bike that has '0' hours trip duration at over 108K. On Monday and Tuesday between 5:00 pm - 6:00 pm Males had the highest stop time and on Thrudays male had the highest subscription for user trip.  
 
 ### Summary
 [Link to Trip Duration by weekday and time](https://public.tableau.com/app/profile/jared.murray/viz/Challengue15/TripsDurationbyweekdayandtime?publish=yes)
 
-Based on the the static Thurdays during the hours for 8:00 am, 5:00 pm and 6:00 pm has the highest trips. Overall Mondays, Tuesday and Thurdays during the hours for 8:00 am, 5:00 pm and 6:00 pm are the the best days for a trips for all genders while Wednesday is the least poplar day. 
+Based on the the static Thursdays during the hours for 8:00 am, 5:00 pm and 6:00 pm has the highest trips. Overall Mondays, Tuesday and Thursdays during the hours for 8:00 am, 5:00 pm and 6:00 pm are the the best days for a trips for all genders while Wednesday is the least poplar day. 
